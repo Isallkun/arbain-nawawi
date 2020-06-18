@@ -8,6 +8,7 @@ HOW TO INSTALL: </br>
 $ pkg install python </br>
 $ pkg install git </br>
 $ pkg install pip </br>
+$ pkg install mpv </br>
 $ git clone https://github.com/SantriInsyaf/arbain-nawawi </br>
 $ cd arbain-nawawi </br>
 $ pip install -r requirements.txt </br>
