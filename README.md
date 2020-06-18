@@ -13,4 +13,6 @@ $ cd arbain-nawawi </br>
 $ pip install -r requirements.txt </br>
 $ python arbain.py </br>
 
+Choose the number with 2 digit, ex: 01
+
 ![alt text](https://github.com/SantriInsyaf/arbain-nawawi/blob/master/Screenshot_2020-06-18-05-09-18-478_com.termux.png?raw=true)
