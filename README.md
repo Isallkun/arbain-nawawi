@@ -10,7 +10,7 @@ $ pkg install git </br>
 $ pkg install pip </br>
 $ git clone https://github.com/SantriInsyaf/arbain-nawawi </br>
 $ cd arbain-nawawi </br>
-$ pip install requirements.txt </br>
+$ pip install -r requirements.txt </br>
 $ python arbain.py </br>
 
 ![alt text](https://github.com/SantriInsyaf/arbain-nawawi/blob/master/Screenshot_2020-06-18-05-09-18-478_com.termux.png?raw=true)
